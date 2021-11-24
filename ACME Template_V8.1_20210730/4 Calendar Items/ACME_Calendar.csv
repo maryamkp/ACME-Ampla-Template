@@ -1,0 +1,9 @@
+Name,StartDateTime,Value,RateCount,RateUnit
+"CPP_Hourly_Tonnes_Target",2019-01-01T00:00:00,"2200",1,Hours
+"CPP_Production_Rate_Target",2019-01-01T00:00:00,"2200",,
+"Crucher-Production_Rate_Target",2019-01-01T00:00:00,"3000",,
+"Crusher_Feed_Rate_Target",2019-01-01T00:00:00,"3000",,
+"M1_Feed_Rate_Target",2019-01-01T00:00:00,"1440",,
+"M1_Production_Rate_Target",2019-01-01T00:00:00,"1100",,
+"M2_Feed_Rate_Target",2019-01-01T00:00:00,"1440",,
+"M2_Production_Rate_Target",2019-01-01T00:00:00,"1100",,
